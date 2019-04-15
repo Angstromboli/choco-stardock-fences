@@ -4,8 +4,10 @@
   <metadata>
     <id>stardock-fences</id>
     <version>3.0.9.11</version>
+	<packageSourceUrl>https://github.com/Angstromboli/choco-stardock-fences</packageSourceUrl>	
     <title>Stardock Fences 3 (Install)</title>
     <authors>Stardock Corporation</authors>
+    <iconUrl>https://github.com/Angstromboli/choco-stardock-fences/raw/master/fences-icon.png</iconUrl>	
 	<owners>Angstrom</owners>
     <projectUrl>https://www.stardock.com/products/fences/</projectUrl>
     <licenseUrl>https://www.stardock.com/support/software-eula</licenseUrl>
